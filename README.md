@@ -1,8 +1,11 @@
-# Heretic Craft
+![banner](https://user-images.githubusercontent.com/78284549/205413684-112dc24c-683e-4285-aef6-6b3b69964658.png)
+<br>
 Heretic Craft is a Technic Launcher modpack made to expand on top of Hexxit with a heavy focus on RPG elements, new armors, weapons, magic and a better progression.
+
 
 ## ADDITIONS TO HEXXIT ( <a href=""> STABLE </a> ) :
 1. Mine And Slash
+
 2. Azure RPG
 3. Mine and Slash Auto Compatibility
 4. Spartan Weaponry
