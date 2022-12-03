@@ -21,6 +21,7 @@ Heretic Craft is a Technic Launcher modpack made to expand on top of Hexxit with
 4. Millenaire (Huge)
 5. Random Loot Mod (Medium)
 6. Electroblob's Wizardry (Medium)
+https://www.curseforge.com/minecraft/mc-mods/electroblobs-wizardry
 
 ## F.A.Q
 ### WHY?
