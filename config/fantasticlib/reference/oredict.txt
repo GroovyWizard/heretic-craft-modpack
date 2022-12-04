@@ -155,10 +155,10 @@ blockGlassWhite
 paneGlassWhite
 bookshelf
 mushroomAny
-tallow
 buttonWood
 gemEnderBiotite
 materialStoneTool
+tallow
 stoneBasalt
 stoneJasper
 stoneSlate
@@ -600,11 +600,11 @@ stoneBrimstonePolished
 stonePermafrostPolished
 blockPrismarineElderBrick
 blockPrismarineElderDark
-blockCandle
-pressurePlateWood
 stonePolished
 plankStained
 shardGlass
+blockCandle
+pressurePlateWood
 blockSlimeCyan
 blockSlimeMagenta
 blockSlimeYellow
@@ -912,5 +912,4 @@ oreNetherEnderium
 denseoreEnderium
 orePoorEnderium
 oreNuggetEnderium
-stickTreatedWood
 bread

@@ -47,7 +47,7 @@
 			}
 		},
 		"hostedserver": {
-			"text": "Get a Server",
+			"text": "GitHub Page",
 			"texture": "hexxit2:textures/mainmenu/btn.png",
 			"hoverTextColor": 10045439,
 			"alignment": "bottom_left",
@@ -60,7 +60,7 @@
 			"imageHeight": 20,
 			"action": {
 				"type": "openLink",
-				"link": "https://bit.ly/Hexxit-II-Menu-Akliz"
+				"link": "https://github.com/GroovyWizard/heretic-craft-modpack"
 			}
 		},
 		"options": {
@@ -97,23 +97,6 @@
 				"type": "quit"
 			}
 		},
-		"issuetracker": {
-			"text": "Issue Tracker",
-			"textOffsetX": 45,
-			"texture": "hexxit2:textures/mainmenu/btn.png",
-			"hoverTextColor": 10045439,
-			"alignment": "bottom_right",
-			"posX": -210,
-			"posY": -140,
-			"width": 200,
-			"height": 20,
-			"imageWidth": 200,
-			"imageHeight": 20,
-			"action": {
-				"type": "openLink",
-				"link": "https://bit.ly/Hexxit-II-Issue-Tracker"
-			}
-		},
 		"discordtechnic": {
 			"text": "Technic's Discord",
 			"textOffsetX": 37,
@@ -131,23 +114,6 @@
 				"link": "https://bit.ly/Hexxit-II-Technic-Discord-Invite"
 			}
 		},
-		"discordauthor": {
-			"text": "Jon's Discord",
-			"textOffsetX": 47,
-			"texture": "hexxit2:textures/mainmenu/btn.png",
-			"hoverTextColor": 10045439,
-			"alignment": "bottom_right",
-			"posX": -210,
-			"posY": -100,
-			"width": 200,
-			"height": 20,
-			"imageWidth": 200,
-			"imageHeight": 20,
-			"action": {
-				"type": "openLink",
-				"link": "https://bit.ly/Hexxit-II-Author-Discord-Invite"
-			}
-		},
 		"mods": {
 			"text": "Loaded Mods",
 			"textOffsetX": 50,
@@ -155,7 +121,7 @@
 			"hoverTextColor": 10045439,
 			"alignment": "bottom_right",
 			"posX": -210,
-			"posY": -80,
+			"posY": -140,
 			"width": 200,
 			"height": 20,
 			"imageWidth": 200,
@@ -220,7 +186,7 @@
 			"alignment": "bottom_right"
 		},
 		"hexxit2": {
-			"text": "Hexxit II 1.4.4",
+			"text": "Heretic Craft v0.1.0",
 			"posX": 1,
 			"posY": 2,
 			"color": -1,
@@ -229,6 +195,13 @@
 				"type": "openLink",
 				"link": "https://www.technicpack.net/modpack/hexxit-ii/changelog"
 			}
+		},
+		"heretic": {
+			"text": "Powered By Hexxit II",
+			"posX": 1,
+			"posY": 12,
+			"color": 13938487,
+			"alignment": "top_left"
 		}
 	},
 	"other": {
